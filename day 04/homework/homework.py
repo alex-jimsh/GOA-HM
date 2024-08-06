@@ -120,3 +120,5 @@ forward(60)
 left(90)
 forward(60)
 left(90)
+
+exitonclick()
