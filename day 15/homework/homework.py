@@ -1,2 +1,0 @@
-#just sololearn
-print('sololearn')
